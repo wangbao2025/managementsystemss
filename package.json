@@ -1,0 +1,31 @@
+{
+  "name": "managementsystemss",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "managementsystemss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangbao2025/managementsystemss"
+  },
+  "website": "https://github.com/wangbao2025/managementsystemss.git",
+  "keywords": [
+    "managementsystemss"
+  ],
+  "author": "wangbao2025",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangbao2025/managementsystemss/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wangbao2025/managementsystemss#readme",
+  "dependencies": {
+    "serviceloadfileas": "1.0.2"
+  }
+}
